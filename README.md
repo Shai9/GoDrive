@@ -26,7 +26,7 @@ To run GoDrive locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/godrive.git
+   git clone https://github.com/shai9/godrive.git
    ```
 
 2. Install the dependencies:
@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact us at [contact@example.com](mailto:calmus885@gmail.com).
+If you have any questions or need assistance, feel free to contact us at [calmus885@gmail.com](mailto:calmus885@gmail.com).
 
 Thank you for choosing GoDrive for your car rental needs! We hope you enjoy using our app.
 
